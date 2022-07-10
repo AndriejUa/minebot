@@ -1,0 +1,11 @@
+{
+  "name": "shari",
+  "version": "1.0.0",
+  "description": "BOT SbyMine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dev SAQ",
+  "license": "ISC"
+}
